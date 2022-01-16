@@ -11,8 +11,8 @@
 #
 
 # Uncomment a feed source
-sed -i 's/^#\(.*kenzo\)/\1/' feeds.conf.default
-sed -i 's/^#\(.*small\)/\1/' feeds.conf.default
+#sed -i 's/^#\(.*kenzo\)/\1/' feeds.conf.default
+#sed -i 's/^#\(.*small\)/\1/' feeds.conf.default
 
 
 # Add a feed source
